@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	printf("hello github.\n");
+	printf("hello github after review.");
 	return EXIT_SUCCESS;
 }
