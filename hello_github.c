@@ -8,10 +8,12 @@
  ============================================================================
  */
 
+#include "github.h"
 #include <stdio.h>
 #include <stdlib.h>
 
 int main(void) {
-	printf("hello github after review.");
+	printf("hello github.");
+	hello_github();
 	return EXIT_SUCCESS;
 }
