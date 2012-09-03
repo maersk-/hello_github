@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 void hello_github(void) {
-	printf("github: hello.\n");
+	printf("github: hello github.\n");
 }
 
